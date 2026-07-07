@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou José Rodolpho 👋
 
-<!--
-**rodolphogomes/rodolphogomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados em formação.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+
+SQL
+
+Power BI
+
+Pandas
+
+Git
+
+GitHub
+
+## Projeto em destaque
+
+📊 Análise de Vendas Superstore
+
+(Link)
+
+## Atualmente estudando
+
+Power BI
+
+ETL
+
+Estatística
+
+Business Intelligence
