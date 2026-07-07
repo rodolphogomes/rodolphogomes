@@ -4,21 +4,21 @@ Analista de Dados em formação.
 
 ## Tecnologias
 
-Python
+🐍 Python
 
-SQL
+🗄️ SQL
 
-Power BI
+📊 Power BI
 
-Pandas
+🐼 Pandas
 
-Git
-
-GitHub
+🌿 Git
 
 ## Projeto em destaque
 
 📊 Análise de Vendas Superstore
+
+- Projeto completo de análise de vendas utilizando Python, SQL, SQLite e Power BI, com foco em KPIs, dashboards executivos e recomendações estratégicas para tomada de decisão.
 
 https://github.com/rodolphogomes/analise-vendas-superstore
 
@@ -26,10 +26,16 @@ https://github.com/rodolphogomes/analise-vendas-superstore
 
 ## Atualmente estudando
 
-Power BI
+- Power BI
 
-ETL
+- ETL
 
-Estatística
+- Estatística
 
-Business Intelligence
+- Business Intelligence
+
+- NumPy
+
+- Storytelling com Dados
+
+- Modelagem de Dados
