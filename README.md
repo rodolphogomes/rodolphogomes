@@ -50,6 +50,8 @@ SQL • Pandas • NumPy • Power BI
 Laboratório de Pentest documentando reconhecimento,
 enumeração, exploração, Reverse Shell e privilege escalation.
 
+🔐 Basic Pentesting 2 — VulnHub Laboratório de Pentest documentando reconhecimento, enumeração, exploração, Reverse Shell e privilege escalation.
+
 🛡️ Security Monitoring Lab
 Laboratório utilizando Wazuh para monitoramento e detecção
 de eventos de segurança.
@@ -74,5 +76,4 @@ utilizando Python e Power BI.
 
 ## 📫 Contato
 
-LinkedIn: [seu LinkedIn]
-Email: rodolpho.gda@gmail.com
+LinkedIn: https://www.linkedin.com/in/rodolpho-goomes/
